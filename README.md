@@ -1,6 +1,6 @@
 # Hosted
 
-Link:- https://Sonu825313-habit-tracker.netlify.app/
+Link:- https://sonu825313-habit-tracker.netlify.app
 
 # Getting Started with Create React App
 
