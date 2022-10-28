@@ -2,6 +2,8 @@
 
 Link:- https://sonu825313-habit-tracker.netlify.app
 
+![Habit-Tracker-React-App](https://user-images.githubusercontent.com/106314383/198566915-1d3de79f-e9d1-446a-8c1e-a73e1b8ba82e.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
